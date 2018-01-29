@@ -29,7 +29,7 @@ Initialize the select2 plugin with the `dropdownPosition` option set to `above` 
 ```javascript
 $("select").select2({
     // other options 
-    dropdownPosition: 'below';
+    dropdownPosition: 'below'
 });
 ```
 
